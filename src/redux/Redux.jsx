@@ -10,7 +10,7 @@ const State = {
         { message: 'hello', id: 2 },   
         { message: 'hello', id: 3 },    
         { message: 'hello', id: 4 },    
-        { message: 'hello', id: 4 }, 
+        { message: 'hello', id: 4 },  
     ],    
     postData : [
         { id: 1, like: 1, message: 'hello' },
