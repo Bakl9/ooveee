@@ -5,7 +5,7 @@ const State = {
         { name: 'Vinny', id: 3 },
         { name: 'Vikki', id: 4 },
 ],  
-    messageData : [. 
+    messageData : [
         { message: 'hello', id: 1 },
         { message: 'hello', id: 2 },       
         { message: 'hello', id: 3 },     
