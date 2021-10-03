@@ -6,7 +6,7 @@ const State = {
         { name: 'Vikki', id: 4 },
 ],  
     messageData : [
-        { message: 'hello', id: 1 },
+        { message: 'hello', id: 1 }, 
         { message: 'hello', id: 2 },       
         { message: 'hello', id: 3 },     
         { message: 'hello', id: 4 },        
