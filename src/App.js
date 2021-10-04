@@ -7,7 +7,7 @@ import Dialogs from './component/Dialogs/Dialogs'
 import { BrowserRouter,Route } from 'react-router-dom'
 
     
-
+  
 
 function App(props) {
 	return (
