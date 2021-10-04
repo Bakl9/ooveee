@@ -6,7 +6,7 @@ import NavBar from './component/navBar/NavBar'
 import Dialogs from './component/Dialogs/Dialogs'
 import { BrowserRouter,Route } from 'react-router-dom'
 
-      
+        
   
 
 function App(props) {
