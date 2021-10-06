@@ -2,7 +2,7 @@ const State = {
     peopleDate : [
         { name: 'John', id: 1 },
         { name: 'Sool', id: 2 },
-        { name: 'Vinny', id: 3 },  
+        { name: 'Vinny', id: 3 },    
         { name: 'Vikki', id: 4 }, 
 ],    
     messageData : [  
