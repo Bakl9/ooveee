@@ -8,7 +8,7 @@ const State = {
     messageData : [  
         { message: 'hello', id: 1 },    
         { message: 'hello', id: 2 },         
-        { message: 'hello', id: 3 },      
+        { message: 'hello', id: 3 },       
         { message: 'hello', id: 4 },           
     ],    
     postData : [
